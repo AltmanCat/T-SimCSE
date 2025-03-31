@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c149d979-fb11-4ebb-810b-af73da5eb972" name="114.215.188.142">
+        <fileTransfer rootFolder="/home/TSimCSE" accessType="SFTP" host="114.215.188.142" port="22" sshConfigId="95ae2ec1-f122-498c-bd8e-d2fcc19eacb0" sshConfig="root@114.215.188.142:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
